@@ -18,7 +18,7 @@ case 2: result = a-b;
 	printf("The difference of %lf and %lf is: %lf",a,b,result);
 	break;
 case 3: break;
-default:"invalid choice";
+default:"wrong choice";
 }
 getch();
 }
